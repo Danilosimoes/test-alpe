@@ -3,6 +3,8 @@
 # Post
 http://localhost:8080/tax
 
+JSON FORMAT
+
 {
 
     "taxNote": "Diversos",
@@ -18,3 +20,13 @@ http://localhost:8080/tax
                 }
     ]
 }
+
+
+# Desenho solução / Arquitetura
+
+
+![img_2.png](img_2.png)
+
+
+
+![img.png](img.png)
